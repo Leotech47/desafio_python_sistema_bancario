@@ -19,3 +19,5 @@ Aluno: Leonardo da Silva
 ###**Operação de extrato:** Essa operação deve listar todos os depósitos e saques realizados na conta. No fim da listagem deve ser exibido saldo atual da conta. Os valors devem ser exibidos utilizando o formato R$ xxx.xx, exemplo: 1500.45 = R$ 1500.45
 
 Nome fictício: **BANK FUTURE**
+
+![Logo do Banco Future]()
