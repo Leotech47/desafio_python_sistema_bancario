@@ -20,4 +20,5 @@ Aluno: Leonardo da Silva
 
 Nome fictício: **BANK FUTURE**
 
-![Logo do Banco Future]()
+![Logo do Banco Future](Gemini_Generated_Image_d34li5d34li5d34l.jpg)
+
